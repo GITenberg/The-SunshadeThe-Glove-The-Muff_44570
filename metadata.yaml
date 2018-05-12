@@ -1,0 +1,36 @@
+_repo: The-SunshadeThe-Glove-The-Muff_44570
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Avril, Paul
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '24941'
+    url: http://www.gutenberg.org/2009/agents/24941
+covers:
+- cover_type: archival
+  image_path: 44570-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Uzanne, Octave
+    alias: Uzanne, Louis Octave
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '1042'
+    url: http://www.gutenberg.org/2009/agents/1042
+description: ''
+gutenberg_issued: '2014-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Muffs'
+- !lcsh 'Parasols'
+- !lcc 'GT'
+- !lcsh 'Gloves'
+title: The Sunshade, the Glove, the Muff
+url: http://www.gutenberg.org/ebooks/44570
